@@ -71,7 +71,7 @@ Room for improvement:
 
 
 ## Acknowledgements
-- Many thanks to _G2Academy_ for creating a bootcamp on Data Expert so I can make a project on what I've learned. Thanks to Mba Putri and Mas Nurul for being such great tutors in providing material and skills. I also thank my friends, Mas Farid and Mas Dias, who became friends for sharing this project. Moreover, I thank my brother who supported from the beginning to the completion of this project.
+- Many thanks to [_G2Academy_](https://www.g2academy.co) for creating a bootcamp on Data Expert so I can make a project on what I've learned. Thanks to Mba Putri and Mas Nurul for being such great tutors in providing material and skills. I also thank my friends, Mas Farid and Mas Dias, who became friends for sharing this project. Moreover, I thank my brother who supported from the beginning to the completion of this project.
 
 
 ## Contact

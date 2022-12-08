@@ -1,0 +1,603 @@
+model_id,brand,model
+AM01,Aston Martin,DB9
+AM02,Aston Martin,Rapide
+AM03,Aston Martin,V12
+AM04,Aston Martin,Virage
+AU01,Audi,A3
+AU02,Audi,A4
+AU03,Audi,A5
+AU04,Audi,A6
+AU05,Audi,A8
+AU06,Audi,Q3
+AU07,Audi,Q5
+AU08,Audi,Q7
+AU09,Audi,Q8
+AU10,Audi,RS5
+AU11,Audi,S3
+AU12,Audi,S5
+AU13,Audi,TT
+BY01,Bentley,Continental
+BY02,Bentley,Continental GT
+BY03,Bentley,Flying Spur
+BW01,BMW,116i
+BW02,BMW,218i
+BW03,BMW,318i
+BW04,BMW,320d
+BW05,BMW,320i
+BW06,BMW,323i
+BW07,BMW,325i
+BW08,BMW,328Ci
+BW09,BMW,328i
+BW10,BMW,330i
+BW11,BMW,335i
+BW12,BMW,340i
+BW13,BMW,428i
+BW14,BMW,430i
+BW15,BMW,435i
+BW16,BMW,440i
+BW17,BMW,520d
+BW18,BMW,520i
+BW19,BMW,523i
+BW20,BMW,525i
+BW21,BMW,528i
+BW22,BMW,530i
+BW23,BMW,535i
+BW24,BMW,640i
+BW25,BMW,645Ci
+BW26,BMW,730Ld
+BW27,BMW,730Li
+BW28,BMW,735IL
+BW29,BMW,735Li
+BW30,BMW,740Li
+BW31,BMW,750Li
+BW32,BMW,840i
+BW33,BMW,i8
+BW34,BMW,M135i
+BW35,BMW,M2
+BW36,BMW,M235i
+BW37,BMW,M3
+BW38,BMW,M4
+BW39,BMW,M5
+BW40,BMW,M850i
+BW41,BMW,X1
+BW42,BMW,X2
+BW43,BMW,X3
+BW44,BMW,X4
+BW45,BMW,X5
+BW46,BMW,X6
+BW47,BMW,X7
+BW48,BMW,Z3
+BW49,BMW,Z4
+CD01,Cadillac,Escalade
+CV01,Chevrolet,Aveo
+CV02,Chevrolet,Blazer
+CV03,Chevrolet,Captiva
+CV04,Chevrolet,Colorado
+CV05,Chevrolet,Cruze
+CV06,Chevrolet,Express
+CV07,Chevrolet,Kalos
+CV08,Chevrolet,Optra
+CV09,Chevrolet,Orlando
+CV10,Chevrolet,Spark
+CV11,Chevrolet,Spin
+CV12,Chevrolet,Tavera
+CV13,Chevrolet,Trailblazer
+CV14,Chevrolet,Trax
+CV15,Chevrolet,Trooper
+CV16,Chevrolet,Zafira
+CR01,Chrysler,300C
+CT01,Citroen,DS3
+DH01,Daihatsu,Ayla
+DH02,Daihatsu,Charade
+DH03,Daihatsu,Espass
+DH04,Daihatsu,Feroza
+DH05,Daihatsu,Gran Max
+DH06,Daihatsu,Hi-Max
+DH07,Daihatsu,Luxio
+DH08,Daihatsu,Rocky
+DH09,Daihatsu,Sigra
+DH10,Daihatsu,Sirion
+DH11,Daihatsu,Taft
+DH12,Daihatsu,Taruna
+DH13,Daihatsu,Terios
+DH14,Daihatsu,Xenia
+DH15,Daihatsu,YRV
+DH16,Daihatsu,Zebra
+DT01,Datsun,Cross
+DT02,Datsun,GO
+DT03,Datsun,GO+
+DF01,DFSK,Glory 560
+DF02,DFSK,Glory 580
+DF03,DFSK,Glory i-Auto
+DF04,DFSK,Super Cab
+DD01,Dodge,D-100
+DD02,Dodge,Journey
+FR01,Ferrari,360
+FR02,Ferrari,458
+FR03,Ferrari,488 GTB
+FR04,Ferrari,488 Pista
+FR05,Ferrari,488 Spider
+FR06,Ferrari,599
+FR07,Ferrari,California
+FR08,Ferrari,F12berlinetta
+FR09,Ferrari,F430
+FR10,Ferrari,GTC4Lusso T
+FI01,Fiat,500
+FI02,Fiat,500C
+FD01,Ford,EcoSport
+FD02,Ford,Escape
+FD03,Ford,Everest
+FD04,Ford,Fiesta
+FD05,Ford,Focus
+FD06,Ford,Laser
+FD07,Ford,Mustang
+FD08,Ford,Ranger
+GE01,Geely,LC
+HI01,Hino,Dutro
+HI02,Hino,FG Series
+HI03,Hino,FM SERIES
+HI04,Hino,Ranger
+HO01,Honda,Accord
+HO02,Honda,BR-V
+HO03,Honda,Brio
+HO04,Honda,City
+HO05,Honda,Civic
+HO06,Honda,CR-V
+HO07,Honda,CR-Z
+HO08,Honda,Elysion
+HO09,Honda,Freed
+HO10,Honda,HR-V
+HO11,Honda,Jazz
+HO12,Honda,Mobilio
+HO13,Honda,Odyssey
+HO14,Honda,S660
+HO15,Honda,Stream
+HU01,Hummer,H2
+HU02,Hummer,H3
+HY01,Hyundai,Accent
+HY02,Hyundai,Accent Verna
+HY03,Hyundai,Atoz
+HY04,Hyundai,Avega
+HY05,Hyundai,Coupe
+HY06,Hyundai,Creta
+HY07,Hyundai,Elantra
+HY08,Hyundai,Excel
+HY09,Hyundai,Getz
+HY10,Hyundai,Grand Avega
+HY11,Hyundai,Grand i10
+HY12,Hyundai,H-1
+HY13,Hyundai,i10
+HY14,Hyundai,i20
+HY15,Hyundai,IONIQ
+HY16,Hyundai,Kona
+HY17,Hyundai,Matrix
+HY18,Hyundai,Palisade
+HY19,Hyundai,Santa Fe
+HY20,Hyundai,Sonata
+HY21,Hyundai,Staria
+HY22,Hyundai,Trajet
+HY23,Hyundai,Tucson
+IF01,Infiniti,FX50
+IF02,Infiniti,M37
+IZ01,Isuzu,Bison
+IZ02,Isuzu,D-Max
+IZ03,Isuzu,Elf
+IZ04,Isuzu,Giga
+IZ05,Isuzu,MU-X
+IZ06,Isuzu,Panther
+IZ07,Isuzu,Pickup
+IZ08,Isuzu,Traga
+JG01,Jaguar,F-Type
+JG02,Jaguar,S-Type
+JG03,Jaguar,XE
+JG04,Jaguar,XF
+JG05,Jaguar,XJ
+JG06,Jaguar,XJ8
+JP01,Jeep,Cherokee
+JP02,Jeep,CJ 7
+JP03,Jeep,Compass
+JP04,Jeep,Gladiator
+JP05,Jeep,Grand Cherokee
+JP06,Jeep,Patriot
+JP07,Jeep,Willys
+JP08,Jeep,Wrangler
+KI01,KIA,Carens
+KI02,KIA,Carnival
+KI03,KIA,Grand Carnival
+KI04,KIA,Grand Sedona
+KI05,KIA,Morning
+KI06,KIA,Optima
+KI07,KIA,Picanto
+KI08,KIA,Pride
+KI09,KIA,Rio
+KI10,KIA,Sedona
+KI11,KIA,Seltos
+KI12,KIA,Shuma
+KI13,KIA,Sonet
+KI14,KIA,Sorento
+KI15,KIA,Sportage
+KI16,KIA,Visto
+LB01,Lamborghini,Aventador
+LB02,Lamborghini,Gallardo
+LB03,Lamborghini,Huracan
+LR01,Land Rover,Defender
+LR02,Land Rover,Discovery
+LR03,Land Rover,Discovery 3
+LR04,Land Rover,Discovery 4
+LR05,Land Rover,Discovery Sport
+LR06,Land Rover,Range Rover
+LR07,Land Rover,Range Rover Evoque
+LR08,Land Rover,Range Rover Sport
+LR09,Land Rover,Range Rover Velar
+LR10,Land Rover,Series
+LX01,Lexus,CT200h
+LX02,Lexus,ES250
+LX03,Lexus,ES300h
+LX04,Lexus,GS200t
+LX05,Lexus,GS300
+LX06,Lexus,GS350
+LX07,Lexus,IS250
+LX08,Lexus,IS300
+LX09,Lexus,LM350
+LX10,Lexus,LS400
+LX11,Lexus,LS430
+LX12,Lexus,LS460L
+LX13,Lexus,LS600hL
+LX14,Lexus,LX470
+LX15,Lexus,LX570
+LX16,Lexus,NX200t
+LX17,Lexus,NX300
+LX18,Lexus,RC F
+LX19,Lexus,RX200t
+LX20,Lexus,RX270
+LX21,Lexus,RX300
+LX22,Lexus,RX350
+LX23,Lexus,UX200
+LX24,Lexus,UX300e
+MS01,Maserati,Ghibli
+MS02,Maserati,GranTurismo
+MS03,Maserati,Levante
+MS04,Maserati,Quattroporte
+MX01,MAXUS,V80
+MZ01,Mazda,2
+MZ02,Mazda,3
+MZ03,Mazda,323
+MZ04,Mazda,5
+MZ05,Mazda,6
+MZ06,Mazda,8
+MZ07,Mazda,Biante
+MZ08,Mazda,BT-50
+MZ09,Mazda,Cronos
+MZ10,Mazda,CX-3
+MZ11,Mazda,CX-30
+MZ12,Mazda,CX-5
+MZ13,Mazda,CX-7
+MZ14,Mazda,CX-8
+MZ15,Mazda,CX-9
+MZ16,Mazda,E2000
+MZ17,Mazda,MR
+MZ18,Mazda,MX-5
+MZ19,Mazda,RX-8
+MZ20,Mazda,Tribute
+MZ21,Mazda,Van Trend
+MC01,McLaren,570S
+MC02,McLaren,600LT
+MC03,McLaren,650S
+MC04,McLaren,675LT
+MC05,McLaren,720S
+MC06,McLaren,MP4-12C
+MB01,Mercedes-Benz,200
+MB02,Mercedes-Benz,200E
+MB03,Mercedes-Benz,230E
+MB04,Mercedes-Benz,280E
+MB05,Mercedes-Benz,280GE
+MB06,Mercedes-Benz,300CE
+MB07,Mercedes-Benz,300E
+MB08,Mercedes-Benz,300SEL
+MB09,Mercedes-Benz,A140
+MB10,Mercedes-Benz,A150
+MB11,Mercedes-Benz,A160
+MB12,Mercedes-Benz,A200
+MB13,Mercedes-Benz,A250
+MB14,Mercedes-Benz,A35 AMG
+MB15,Mercedes-Benz,A45 AMG
+MB16,Mercedes-Benz,AMG GT
+MB17,Mercedes-Benz,AXOR
+MB18,Mercedes-Benz,B170
+MB19,Mercedes-Benz,B180
+MB20,Mercedes-Benz,B200
+MB21,Mercedes-Benz,C180
+MB22,Mercedes-Benz,C200
+MB23,Mercedes-Benz,C200K
+MB24,Mercedes-Benz,C230
+MB25,Mercedes-Benz,C230K
+MB26,Mercedes-Benz,C240
+MB27,Mercedes-Benz,C250
+MB28,Mercedes-Benz,C280
+MB29,Mercedes-Benz,C300
+MB30,Mercedes-Benz,C43 AMG
+MB31,Mercedes-Benz,C63 AMG
+MB32,Mercedes-Benz,CLA200
+MB33,Mercedes-Benz,CLA250
+MB34,Mercedes-Benz,CLA45 AMG
+MB35,Mercedes-Benz,CLK200K
+MB36,Mercedes-Benz,CLK230
+MB37,Mercedes-Benz,CLK240
+MB38,Mercedes-Benz,CLS350
+MB39,Mercedes-Benz,CLS400
+MB40,Mercedes-Benz,CLS500
+MB41,Mercedes-Benz,CLS63 AMG
+MB42,Mercedes-Benz,E200
+MB43,Mercedes-Benz,E200K
+MB44,Mercedes-Benz,E220
+MB45,Mercedes-Benz,E230
+MB46,Mercedes-Benz,E240
+MB47,Mercedes-Benz,E250
+MB48,Mercedes-Benz,E260
+MB49,Mercedes-Benz,E280
+MB50,Mercedes-Benz,E300
+MB51,Mercedes-Benz,E320
+MB52,Mercedes-Benz,E350
+MB53,Mercedes-Benz,E400
+MB54,Mercedes-Benz,E43 AMG
+MB55,Mercedes-Benz,E500
+MB56,Mercedes-Benz,E53 AMG
+MB57,Mercedes-Benz,E63 AMG
+MB58,Mercedes-Benz,G300
+MB59,Mercedes-Benz,G350
+MB60,Mercedes-Benz,G55 AMG
+MB61,Mercedes-Benz,G63 AMG
+MB62,Mercedes-Benz,GE
+MB63,Mercedes-Benz,GL350
+MB64,Mercedes-Benz,GL400
+MB65,Mercedes-Benz,GL500
+MB66,Mercedes-Benz,GLA200
+MB67,Mercedes-Benz,GLB200
+MB68,Mercedes-Benz,GLC200
+MB69,Mercedes-Benz,GLC250
+MB70,Mercedes-Benz,GLC300
+MB71,Mercedes-Benz,GLE250
+MB72,Mercedes-Benz,GLE400
+MB73,Mercedes-Benz,GLE450
+MB74,Mercedes-Benz,GLS400
+MB75,Mercedes-Benz,GLS450
+MB76,Mercedes-Benz,ML250
+MB77,Mercedes-Benz,ML270
+MB78,Mercedes-Benz,ML300
+MB79,Mercedes-Benz,ML320
+MB80,Mercedes-Benz,ML350
+MB81,Mercedes-Benz,ML400
+MB82,Mercedes-Benz,OM 364
+MB83,Mercedes-Benz,R280L
+MB84,Mercedes-Benz,S280
+MB85,Mercedes-Benz,S300 L
+MB86,Mercedes-Benz,S320
+MB87,Mercedes-Benz,S350
+MB88,Mercedes-Benz,S350 L
+MB89,Mercedes-Benz,S400
+MB90,Mercedes-Benz,S400 L
+MB91,Mercedes-Benz,S450 L
+MB92,Mercedes-Benz,S500 L
+MB93,Mercedes-Benz,S600 L
+MB94,Mercedes-Benz,S63 AMG
+MB95,Mercedes-Benz,SL300
+MB96,Mercedes-Benz,SL350
+MB97,Mercedes-Benz,SL63 AMG
+MB98,Mercedes-Benz,SLC200
+MB99,Mercedes-Benz,SLC43 AMG
+MB100,Mercedes-Benz,SLK200
+MB101,Mercedes-Benz,SLK200K
+MB102,Mercedes-Benz,SLK230K
+MB103,Mercedes-Benz,SLK250
+MB104,Mercedes-Benz,SLK300
+MB105,Mercedes-Benz,SLK350
+MB106,Mercedes-Benz,Sprinter
+MB107,Mercedes-Benz,Unimog
+MB108,Mercedes-Benz,V220
+MB109,Mercedes-Benz,V250
+MB110,Mercedes-Benz,V260
+MB111,Mercedes-Benz,V350
+MB112,Mercedes-Benz,Vaneo
+MB113,Mercedes-Benz,Viano
+MB114,Mercedes-Benz,Vito
+MG01,MG,HS
+MG02,MG,ZS
+MI01,MINI,Cabrio
+MI02,MINI,Clubman
+MI03,MINI,Cooper
+MI04,MINI,Countryman
+MI05,MINI,Coupe
+MI06,MINI,Paceman
+MI07,MINI,Roadster
+MT01,Mitsubishi,Airtrek
+MT02,Mitsubishi,Chariot
+MT03,Mitsubishi,Colt
+MT04,Mitsubishi,Colt L300
+MT05,Mitsubishi,Colt T120SS
+MT06,Mitsubishi,Delica
+MT07,Mitsubishi,Eclipse Cross
+MT08,Mitsubishi,Fuso
+MT09,Mitsubishi,Galant
+MT10,Mitsubishi,Grandis
+MT11,Mitsubishi,Kuda
+MT12,Mitsubishi,Lancer
+MT13,Mitsubishi,Mirage
+MT14,Mitsubishi,Outlander Sport
+MT15,Mitsubishi,Pajero
+MT16,Mitsubishi,Pajero Sport
+MT17,Mitsubishi,Strada Triton
+MT18,Mitsubishi,Triton
+MT19,Mitsubishi,Xpander
+MO01,Morgan,Plus Six
+NI01,Nissan,Almera
+NI02,Nissan,Cube
+NI03,Nissan,Diesel
+NI04,Nissan,Elgrand
+NI05,Nissan,Evalia
+NI06,Nissan,Grand Livina
+NI07,Nissan,GT-R
+NI08,Nissan,Juke
+NI09,Nissan,Kicks
+NI10,Nissan,Latio
+NI11,Nissan,Livina
+NI12,Nissan,Livina X-Gear
+NI13,Nissan,Magnite
+NI14,Nissan,March
+NI15,Nissan,Murano
+NI16,Nissan,Navara
+NI17,Nissan,Sentra
+NI18,Nissan,Serena
+NI19,Nissan,Sunny
+NI20,Nissan,Teana
+NI21,Nissan,Terra
+NI22,Nissan,Terrano
+NI23,Nissan,X-Trail
+OP01,Opel,Blazer
+PG01,Peugeot,206
+PG02,Peugeot,207
+PG03,Peugeot,3008
+PG04,Peugeot,306
+PG05,Peugeot,405
+PG06,Peugeot,406
+PG07,Peugeot,407
+PG08,Peugeot,5008
+PG09,Peugeot,508
+PG10,Peugeot,807
+PG11,Peugeot,RCZ
+PC01,Porsche,718
+PC02,Porsche,911
+PC03,Porsche,Boxster
+PC04,Porsche,Cayenne
+PC05,Porsche,Cayman
+PC06,Porsche,Macan
+PC07,Porsche,Panamera
+PT01,Proton,Exora
+PT02,Proton,Neo
+PT03,Proton,Saga
+RN01,Renault,Duster
+RN02,Renault,Koleos
+RN03,Renault,Kwid
+RN04,Renault,Megane
+RN05,Renault,Triber
+RR01,Rolls-Royce,Ghost
+RR02,Rolls-Royce,Phantom
+SM01,smart,Forfour
+SM02,smart,fortwo
+SM03,smart,Roadster
+SM04,smart,Smart mhd
+SB01,Subaru,BRZ
+SB02,Subaru,Forester
+SB03,Subaru,Impreza
+SB04,Subaru,Legacy
+SB05,Subaru,WRX STi
+SB06,Subaru,XV
+SZ01,Suzuki,Aerio
+SZ02,Suzuki,Amenity
+SZ03,Suzuki,APV
+SZ04,Suzuki,Baleno
+SZ05,Suzuki,Caribian
+SZ06,Suzuki,Carry
+SZ07,Suzuki,Celerio
+SZ08,Suzuki,Ciaz
+SZ09,Suzuki,Ertiga
+SZ10,Suzuki,Escudo
+SZ11,Suzuki,Esteem
+SZ12,Suzuki,Forsa
+SZ13,Suzuki,Grand Escudo
+SZ14,Suzuki,Grand Vitara
+SZ15,Suzuki,Ignis
+SZ16,Suzuki,Jimny
+SZ17,Suzuki,Karimun
+SZ18,Suzuki,Karimun Wagon R
+SZ19,Suzuki,Katana
+SZ20,Suzuki,Mega Carry
+SZ21,Suzuki,Neo Baleno
+SZ22,Suzuki,Sidekick
+SZ23,Suzuki,Splash
+SZ24,Suzuki,Swift
+SZ25,Suzuki,SX4
+SZ26,Suzuki,SX4 S-Cross
+SZ27,Suzuki,Vitara
+SZ28,Suzuki,XL7
+TA01,Tata,Ace
+TA02,Tata,Safari
+TA03,Tata,Super Ace
+TA04,Tata,Xenon
+TS01,Tesla,Model 3
+TS02,Tesla,Model S
+TS03,Tesla,Model X
+TI01,Timor,S-515
+TI02,Timor,S-515i
+TY01,Toyota,86
+TY02,Toyota,Agya
+TY03,Toyota,Alphard
+TY04,Toyota,Avanza
+TY05,Toyota,C-HR
+TY06,Toyota,Calya
+TY07,Toyota,Camry
+TY08,Toyota,Camry Hybrid
+TY09,Toyota,Celica
+TY10,Toyota,Corolla
+TY11,Toyota,Corolla Altis
+TY12,Toyota,Corolla Cross
+TY13,Toyota,Crown
+TY14,Toyota,Dyna
+TY15,Toyota,Etios
+TY16,Toyota,Etios Valco
+TY17,Toyota,Fortuner
+TY18,Toyota,Harrier
+TY19,Toyota,Hiace
+TY20,Toyota,Hilux
+TY21,Toyota,Innova Venturer
+TY22,Toyota,Kijang
+TY23,Toyota,Kijang Innova
+TY24,Toyota,Kijang Pick Up
+TY25,Toyota,Land Cruiser
+TY26,Toyota,Land Cruiser Cygnus
+TY27,Toyota,Land Cruiser Prado
+TY28,Toyota,Limo
+TY29,Toyota,Mark X
+TY30,Toyota,NAV1
+TY31,Toyota,Picnic
+TY32,Toyota,Prado
+TY33,Toyota,Previa
+TY34,Toyota,Raize
+TY35,Toyota,RAV4
+TY36,Toyota,Rush
+TY37,Toyota,Sienta
+TY38,Toyota,Soluna
+TY39,Toyota,Starlet
+TY40,Toyota,Supra
+TY41,Toyota,Vellfire
+TY42,Toyota,Veloz
+TY43,Toyota,Vios
+TY44,Toyota,Voxy
+TY45,Toyota,Yaris
+UT01,UD TRUCKS,Quester
+VW01,Volkswagen,Beetle
+VW02,Volkswagen,Caravelle
+VW03,Volkswagen,Golf
+VW04,Volkswagen,Kombi
+VW05,Volkswagen,New Beetle
+VW06,Volkswagen,Polo
+VW07,Volkswagen,Scirocco
+VW08,Volkswagen,The Beetle
+VW09,Volkswagen,Tiguan
+VW10,Volkswagen,Touareg
+VW11,Volkswagen,Touran
+VW12,Volkswagen,Variant
+VV01,Volvo,240
+VV02,Volvo,244
+VV03,Volvo,850
+VV04,Volvo,940
+VV05,Volvo,960
+VV06,Volvo,S60
+VV07,Volvo,S70
+VV08,Volvo,S80
+VV09,Volvo,S90
+VV10,Volvo,XC60
+VV11,Volvo,XC90
+WL01,Wuling,Almaz
+WL02,Wuling,Confero
+WL03,Wuling,Cortez
+WL04,Wuling,Formo

@@ -40,7 +40,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./img/Untitled.jpg)
 
 
 

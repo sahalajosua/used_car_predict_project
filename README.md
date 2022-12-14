@@ -7,7 +7,7 @@ There are also many scams on the market that not only sell wrongly but can also 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
+* [Visualization](#visualization)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Project Status](#project-status)
@@ -32,11 +32,11 @@ There are also many scams on the market that not only sell wrongly but can also 
 - Streamlit 
 
 
-## Features
-List the ready features here:
-- [_Feature-1_](https://public.tableau.com/app/profile/sahalajosuasinaga/viz/UsedCarsExecutiveOverview_sjsinaga/ExecutiveOverviewDashboard)
-- [_Feature-2_](https://public.tableau.com/app/profile/sahalajosuasinaga/viz/UsedCarsExploratoryAnalysis_sjsinaga/ExploratoryDataAnalysis)
-- [_Feature-2_](https://public.tableau.com/app/profile/sahalajosuasinaga/viz/UsedCarsDetailOverview_sjsinaga/DetailOverviewDashboard)
+## Visualization
+List the ready Data Visualization here:
+- [_Viz-1_](https://public.tableau.com/app/profile/sahalajosuasinaga/viz/UsedCarsExecutiveOverview_sjsinaga/ExecutiveOverviewDashboard)
+- [_Viz-2_](https://public.tableau.com/app/profile/sahalajosuasinaga/viz/UsedCarsExploratoryAnalysis_sjsinaga/ExploratoryDataAnalysis)
+- [_Viz-2_](https://public.tableau.com/app/profile/sahalajosuasinaga/viz/UsedCarsDetailOverview_sjsinaga/DetailOverviewDashboard)
 
 
 ## Screenshots

@@ -36,7 +36,7 @@ There are also many scams on the market that not only sell wrongly but can also 
 List the ready Data Visualization here:
 - [_Viz-1_](https://public.tableau.com/app/profile/sahalajosuasinaga/viz/UsedCarsExecutiveOverview_sjsinaga/ExecutiveOverviewDashboard)
 - [_Viz-2_](https://public.tableau.com/app/profile/sahalajosuasinaga/viz/UsedCarsExploratoryAnalysis_sjsinaga/ExploratoryDataAnalysis)
-- [_Viz-2_](https://public.tableau.com/app/profile/sahalajosuasinaga/viz/UsedCarsDetailOverview_sjsinaga/DetailOverviewDashboard)
+- [_Viz-3_](https://public.tableau.com/app/profile/sahalajosuasinaga/viz/UsedCarsDetailOverview_sjsinaga/DetailOverviewDashboard)
 
 
 ## Screenshots

@@ -75,4 +75,4 @@ Room for improvement:
 
 
 ## Contact
-Created by [@sahalajosua](https://www.linkedin.com/in/sahala-josua-sinaga-7721a61b7/) - feel free to contact me!
+Created by [@sahalajosua](https://www.linkedin.com/in/sahalajosuasinaga/) - feel free to contact me!
